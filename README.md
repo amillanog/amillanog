@@ -1,48 +1,29 @@
-### Hi there 👋
-<img src="https://github.com/amillanog/amillanog/blob/3876255b215d60e7d60bf96f0600251dc0bc2ecb/svg.svg"/>
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+### :computer: Hi there 👋  :computer:
+<img src="https://github.com/amillanog/amillanog/blob/34c8d46c73a0a351afdc522c14a8765eb9a20dd4/svg.svg"/>
+<p><em>:mortar_board: Estudiante de licenciatura en Artes mención Diseño Gráfico en la <a href="http://web.unicaedu.com/">Universidad Catolica Cecilio Acosta</a> :mortar_board:</br>
 </em></p>
 
 
 ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
+const sobreMi = {
+   code: ["Javascript", "Typescript", "HTML", "CSS", "JQuery"],
+   tecnologías: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+         js: ["React","next","vite", "Node"],
+         css: ["Bootstrap", "Tailwind", "Sass", "Animation Css"]
+      }, 
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   otrasHabilidades: ["Figma", "Diseño responsivo", "Git", "GitHub", "Slack", 
+      "Jira", "Redux", "Contex", "VisualStudio Code", "Metodologías Agile Scrum", 
+      "Adobe Photoshop", "Adobe lllustrator", "Adobe Xd" , "Adobe After Effects", "Adobe Premiere Pro"
+   ],   
 };
 ```
 ---
 </br></br>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-4BC73.svg?logo=linkedin&logoColor=while)](www.linkedin.com/in/alexander-millano-gonzalez-18632449)
+<h3> 🤝🏻 Connect with Me </h3>
+<a href="www.linkedin.com/in/alexander-millano-gonzalez-18632449" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alexanderMillano-blue?style=flat&logo=linkedin"></a>
+<a href="www.behance.net/alexander_millano"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white"></a>
+
 </br></br>
-⭐️ From [amillanog](www.github.com/amillanog)
-<!--
-**amillanog/amillanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [amillanog](https://www.github.com/amillanog)
