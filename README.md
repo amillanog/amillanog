@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/amillanog/amillanog/blob/81f44d44ffd4a2acc4fd85728852d97c012eec47/svg.svg"/>
+<img src="https://github.com/amillanog/amillanog/blob/bfb7bc0835ad266d03af2df8301fc2436e107195/svg.svg"/>
 
 <!--
 **amillanog/amillanog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
