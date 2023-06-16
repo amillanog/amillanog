@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/amillanog/amillanog/blob/9e7513b9691f0d071b72b4dcfc338d1ec86700cc/svg.svg"/>
+<img src="https://github.com/amillanog/amillanog/blob/3876255b215d60e7d60bf96f0600251dc0bc2ecb/svg.svg"/>
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
 </em></p>
 
