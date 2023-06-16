@@ -1,6 +1,6 @@
 ### :computer: Hi there 👋  :computer:
 <img src="https://github.com/amillanog/amillanog/blob/34c8d46c73a0a351afdc522c14a8765eb9a20dd4/svg.svg"/>
-<p>:mortar_board: Licenciatura en Artes mención Diseño Gráfico en la <a href="http://web.unicaedu.com/">Universidad Catolica Cecilio Acosta</a> :mortar_board:
+<p>:mortar_board: Licenciatura en Artes mención Diseño Gráfico de la <a href="http://web.unicaedu.com/">Universidad Catolica Cecilio Acosta</a> :mortar_board:
 </p>
 
 
