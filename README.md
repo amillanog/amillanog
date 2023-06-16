@@ -22,8 +22,8 @@ const sobreMi = {
 ---
 </br></br>
 <h3> 🤝🏻 Connect with Me </h3>
-<a href="www.linkedin.com/in/alexander-millano-gonzalez-18632449" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alexanderMillano-blue?style=flat&logo=linkedin"></a>
-<a href="www.behance.net/alexander_millano"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alexander-millano-gonzalez-18632449" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alexanderMillano-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.behance.net/alexander_millano"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white"></a>
 
 </br></br>
 ⭐️ From [amillanog](https://www.github.com/amillanog)
